@@ -1,0 +1,5 @@
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Release\net8.0-windows\publish\курсовая.exe
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Release\net8.0-windows\publish\курсовая.dll
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Release\net8.0-windows\publish\курсовая.deps.json
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Release\net8.0-windows\publish\курсовая.runtimeconfig.json
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Release\net8.0-windows\publish\курсовая.pdb

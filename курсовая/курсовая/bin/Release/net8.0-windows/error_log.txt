@@ -1,0 +1,323 @@
+[25.11.2024 3:08:10] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 432
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 327
+[25.11.2024 3:15:26] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 301
+[25.11.2024 3:22:00] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 450
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 329
+[25.11.2024 3:22:18] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 450
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 329
+[25.11.2024 3:22:25] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 450
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 329
+[25.11.2024 3:34:52] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 447
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 326
+[25.11.2024 3:35:22] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 447
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 326
+[25.11.2024 16:17:28] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 445
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 324
+[29.11.2024 0:45:21] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnLoad_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 390
+[29.11.2024 1:33:00] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnLoad_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 398
+[29.11.2024 1:35:59] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnLoad_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 398
+[29.11.2024 1:36:43] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnLoad_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 398
+[29.11.2024 1:44:00] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnAddEq_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 96
+[29.11.2024 1:44:47] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnAddEq_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 96
+[30.11.2024 20:33:15] Исключение: The input string '2,3' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at курсовая.Form1.btnGenSLAU_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 23
+[30.11.2024 20:33:32] Исключение: The input string '2,3' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at курсовая.Form1.btnGenSLAU_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 22
+[30.11.2024 20:33:36] Исключение: The input string '2,3' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at курсовая.Form1.btnGenSLAU_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 22
+[30.11.2024 20:34:00] Исключение: Количество уравнений и неизвестных должно быть больше нуля.
+ Трассировка стека:    at курсовая.Form1.btnGenSLAU_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 25
+[30.11.2024 21:08:35] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 460
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 333
+[30.11.2024 23:19:24] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 524
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[30.11.2024 23:19:30] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 524
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[30.11.2024 23:22:08] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 463
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[30.11.2024 23:22:11] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 463
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[30.11.2024 23:22:21] Исключение: The input string 'ыы' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 463
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[30.11.2024 23:40:48] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 524
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 14:24:13] Исключение: The input string '2.7' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 463
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 14:24:17] Исключение: The input string '2.7' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 463
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 14:24:50] Исключение: The input string '2.7' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 463
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 14:25:15] Исключение: The input string '2.2' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 463
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 14:25:30] Исключение: The input string '0.1' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 14:26:31] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 524
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 14:26:38] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 524
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 14:51:24] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 524
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 14:51:32] Исключение: The input string '0.1' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 336
+[01.12.2024 17:18:39] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:32:28] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:32:32] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:32:39] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:32:43] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:32:48] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:32:53] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:33:22] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:33:30] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:34:34] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:34:39] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:38:23] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:38:35] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:38:42] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:38:49] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:39:05] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:40:08] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 17:47:00] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:14:18] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:14:28] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:14:38] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:14:52] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:15:00] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:32:47] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:33:41] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:33:45] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 525
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:36:42] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 464
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:36:47] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 527
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 337
+[01.12.2024 18:40:36] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 470
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 18:40:41] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 531
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 344
+[01.12.2024 18:47:12] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 468
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 18:47:19] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 529
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 18:50:40] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 466
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 18:57:42] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 538
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 18:58:19] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 466
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 18:58:22] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 528
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 19:01:27] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 466
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 19:01:31] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 528
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 19:01:40] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 528
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 19:01:55] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 528
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 19:02:13] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 528
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 339
+[01.12.2024 19:08:35] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 468
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 341
+[01.12.2024 19:08:39] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 529
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 341
+[01.12.2024 19:09:05] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 529
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 341
+[01.12.2024 19:10:29] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 476
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 349
+[01.12.2024 19:10:33] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 537
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 349
+[01.12.2024 19:15:26] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 533
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 345
+[01.12.2024 20:09:58] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 538
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 350
+[01.12.2024 20:17:49] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 545
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 357
+[01.12.2024 20:20:19] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 476
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 349
+[02.12.2024 0:35:08] Исключение: Число строк в файле (75) не соответствует числу уравнений (2).
+ Трассировка стека:    at курсовая.Form1.btnLoad_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 417
+[02.12.2024 0:37:20] Исключение: Ошибка в строке 1: ожидается 3 неизвестных, а в файле-то 4. ;)
+ Трассировка стека:    at курсовая.Form1.btnLoad_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 422

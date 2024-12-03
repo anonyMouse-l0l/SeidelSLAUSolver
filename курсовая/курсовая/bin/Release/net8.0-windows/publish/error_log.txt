@@ -1,0 +1,45 @@
+[29.11.2024 0:53:46] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 296
+[29.11.2024 0:53:50] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at курсовая.Form1.btnGenSLAU_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 22
+[29.11.2024 0:54:04] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 324
+[29.11.2024 0:56:25] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 296
+[29.11.2024 0:56:30] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 445
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 324
+[29.11.2024 0:56:35] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 324
+[29.11.2024 0:59:38] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnLoad_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 390
+[29.11.2024 1:05:33] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnAddVar_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 101
+[29.11.2024 1:17:16] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 453
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 332
+[29.11.2024 1:31:38] Исключение: Attempted to divide by zero.
+ Трассировка стека:    at курсовая.Form1.btnLoad_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 398
+[29.11.2024 1:42:33] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 459
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 332
+[29.11.2024 1:42:40] Исключение: Метод не сходится за заданное число итераций.
+ Трассировка стека:    at курсовая.Solver.Solve(Double[,] matrix, Double[] consts, Double converg, Int32 maxIterations) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 520
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 332
+[02.12.2024 1:11:37] Исключение: The input string '' was not in a correct format.
+ Трассировка стека:    at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Double.Parse(String s)
+   at курсовая.Form1.GetMatrix() in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 474
+   at курсовая.Form1.btnSolve_Click(Object sender, EventArgs e) in C:\Users\DeadRat\source\repos\курсовая\курсовая\Form1.cs:line 347

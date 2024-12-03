@@ -1,0 +1,16 @@
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Debug\net8.0-windows\курсовая.exe
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Debug\net8.0-windows\курсовая.deps.json
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Debug\net8.0-windows\курсовая.runtimeconfig.json
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Debug\net8.0-windows\курсовая.dll
+C:\Users\DeadRat\source\repos\курсовая\курсовая\bin\Debug\net8.0-windows\курсовая.pdb
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\курсовая.Form1.resources
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\курсовая.csproj.GenerateResource.cache
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\курсовая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\курсовая.AssemblyInfoInputs.cache
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\курсовая.AssemblyInfo.cs
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\курсовая.csproj.CoreCompileInputs.cache
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\курсовая.dll
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\refint\курсовая.dll
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\курсовая.pdb
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\курсовая.genruntimeconfig.cache
+C:\Users\DeadRat\source\repos\курсовая\курсовая\obj\Debug\net8.0-windows\ref\курсовая.dll
